@@ -1,12 +1,12 @@
 # COINBASE FRONTEND
-![image](https://github.com/lgomezruiz/Coinbase-Frontend/assets/97950503/79b53e8d-36a4-46a1-8b78-15b5837063ff)
+![image](https://github.com/lgomezruiz/Monedobase-Frontend/assets/97950503/3258124b-45bc-4f70-84f0-3a276df1a5a8)
 
 ## Ejemplo en vivo
-- [Coinbase Frontend by lgomezruiz](https://coinbase-frontend.netlify.app/)
+- [Monedobase Frontend by lgomezruiz](https://monedobase-frontend.netlify.app/)
 
 ## Description 📑
 
-Coinbase Frontend as a final project of the HTML and CSS course taught by OpenBootcamp.
+Monedobase Frontend as a final project of the HTML and CSS course taught by OpenBootcamp. It's a clone of the Coinbase frontend.
 
 ## What have I learned in this project? 🙇🏻 
 
@@ -22,6 +22,8 @@ Coinbase Frontend as a final project of the HTML and CSS course taught by OpenBo
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## Author ✒️

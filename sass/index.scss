@@ -1,0 +1,8 @@
+/*En este archivo principal sólo debemos importar componentes que vayamos a usar del
+    resto de archivos .scss*/
+
+//Usamos el archivo con los componentes
+@use "components";
+
+//Usamos el archivo con los estilos globales
+@use "globals";

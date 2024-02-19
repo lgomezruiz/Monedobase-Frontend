@@ -1,4 +1,4 @@
-# COINBASE FRONTEND
+# MONEDOBASE FRONTEND
 ![image](https://github.com/lgomezruiz/Monedobase-Frontend/assets/97950503/3258124b-45bc-4f70-84f0-3a276df1a5a8)
 
 ## Ejemplo en vivo
